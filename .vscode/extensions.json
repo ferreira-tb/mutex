@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "vivaxy.vscode-conventional-commits",
+    "github.vscode-pull-request-github",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "prettier.requireConfig": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "files.exclude": {
+    ".eslintcache": true
+  }
+}
