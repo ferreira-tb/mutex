@@ -1,6 +1,6 @@
 {
   "name": "@tb-dev/mutex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A naive mutex implementation for TypeScript",
   "license": "MIT",
   "type": "module",

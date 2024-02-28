@@ -1,7 +1,7 @@
-interface MutexHandle<T> {
+export interface MutexHandle<T> {
   get: () => T;
-  release: () => void;
   set: (value: T) => void;
+  release: () => void;
 }
 
 export class Mutex<T> {

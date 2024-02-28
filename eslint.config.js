@@ -5,7 +5,8 @@ export default config({
   project: ['./tsconfig.json'],
   overrides: {
     perfectionist: {
-      'perfectionist/sort-classes': 'off'
+      'perfectionist/sort-classes': 'off',
+      'perfectionist/sort-interfaces': 'off'
     }
   }
 });
